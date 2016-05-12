@@ -1,0 +1,2030 @@
+{
+"Clapbrd/Full-H": {
+		"category": "sBuildings 2",
+		"model": "wall_clapbrd_full_H",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 1.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#c9c5bb",
+			"color2": "#726647",
+			"color3": "#636363"
+		}
+	},
+"Clapbrd/Fifth-H": {
+		"category": "sBuildings 2",
+		"model": "wall_clapbrd_fifth_H",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 1.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#c9c5bb",
+			"color2": "#726647",
+			"color3": "#636363"
+		}
+	},
+"Clapbrd/Fifth-H/Diag": {
+		"category": "sBuildings 2",
+		"model": "wall_clapbrd_fifth_H_diag",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 1.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#c9c5bb",
+			"color2": "#726647",
+			"color3": "#636363"
+		}
+	},
+"Clapbrd/Third-H/Slope 1": {
+		"category": "sBuildings 2",
+		"model": "wall_clapbrd_third_H_slope1",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 1.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#c9c5bb",
+			"color2": "#726647",
+			"color3": "#636363"
+		}
+	},
+"Clapbrd/Third-H/Slope 2": {
+		"category": "sBuildings 2",
+		"model": "wall_clapbrd_third_H_slope2",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 1.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#c9c5bb",
+			"color2": "#726647",
+			"color3": "#636363"
+		}
+	},
+"Clapbrd/Third-H/Slope/Diag 1": {
+		"category": "sBuildings 2",
+		"model": "wall_clapbrd_third_H_slope_diag1",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 1.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#c9c5bb",
+			"color2": "#726647",
+			"color3": "#636363"
+		}
+	},
+"Clapbrd/Third-H/Slope/Diag 2": {
+		"category": "sBuildings 2",
+		"model": "wall_clapbrd_third_H_slope_diag2",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 1.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#c9c5bb",
+			"color2": "#726647",
+			"color3": "#636363"
+		}
+	},
+"Clapbrd/Full-H/Slope 1": {
+		"category": "sBuildings 2",
+		"model": "wall_clapbrd_full_H_slope1",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 1.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#c9c5bb",
+			"color2": "#726647",
+			"color3": "#636363"
+		}
+	},
+"Clapbrd/Full-H/Slope 2": {
+		"category": "sBuildings 2",
+		"model": "wall_clapbrd_full_H_slope2",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 1.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#c9c5bb",
+			"color2": "#726647",
+			"color3": "#636363"
+		}
+	},
+"Clapbrd/Full-H/Slope/Diag 1": {
+		"category": "sBuildings 2",
+		"model": "wall_clapbrd_full_H_slope_diag1",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 1.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#c9c5bb",
+			"color2": "#726647",
+			"color3": "#636363"
+		}
+	},
+"Clapbrd/Full-H/Slope/Diag 2": {
+		"category": "sBuildings 2",
+		"model": "wall_clapbrd_full_H_slope_diag2",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 1.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#c9c5bb",
+			"color2": "#726647",
+			"color3": "#636363"
+		}
+	},
+"Clapbrd/Half-H/Slope/Diag 1": {
+		"category": "sBuildings 2",
+		"model": "wall_clapbrd_half_H_slope_diag1",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 1.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#c9c5bb",
+			"color2": "#726647",
+			"color3": "#636363"
+		}
+	},
+"Clapbrd/Half-H/Slope/Diag 2": {
+		"category": "sBuildings 2",
+		"model": "wall_clapbrd_half_H_slope_diag2",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 1.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#c9c5bb",
+			"color2": "#726647",
+			"color3": "#636363"
+		}
+	},
+"Clapbrd-Half/Full-H/Slope/Diag 1": {
+		"category": "sBuildings 2",
+		"model": "wall_clapbrd_half_full_H_slope_diag1",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.1,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#c9c5bb",
+			"color2": "#726647",
+			"color3": "#636363"
+		}
+	},
+"Clapbrd-Half/Full-H/Slope/Diag 2": {
+		"category": "sBuildings 2",
+		"model": "wall_clapbrd_half_full_H_slope_diag2",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.1,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#c9c5bb",
+			"color2": "#726647",
+			"color3": "#636363"
+		}
+	},
+"Clapbrd-Half/Half-H/Slope/Diag 1": {
+		"category": "sBuildings 2",
+		"model": "wall_clapbrd_half_half_H_slope_diag1",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.1,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#c9c5bb",
+			"color2": "#726647",
+			"color3": "#636363"
+		}
+	},
+"Clapbrd-Half/Half-H/Slope/Diag 2": {
+		"category": "sBuildings 2",
+		"model": "wall_clapbrd_half_half_H_slope_diag2",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.1,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#c9c5bb",
+			"color2": "#726647",
+			"color3": "#636363"
+		}
+	},
+"Clapbrd-Half/Full-H/Slope 1": {
+		"category": "sBuildings 2",
+		"model": "wall_clapbrd_half_full_H_slope1",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.1,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#c9c5bb",
+			"color2": "#726647",
+			"color3": "#636363"
+		}
+	},
+"Clapbrd-Half/Full-H/Slope 2": {
+		"category": "sBuildings 2",
+		"model": "wall_clapbrd_half_full_H_slope2",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.1,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#c9c5bb",
+			"color2": "#726647",
+			"color3": "#636363"
+		}
+	},
+"Clapbrd-Half/Half-H/Slope 1": {
+		"category": "sBuildings 2",
+		"model": "wall_clapbrd_half_half_H_slope1",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.1,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#c9c5bb",
+			"color2": "#726647",
+			"color3": "#636363"
+		}
+	},
+"Clapbrd-Half/Half-H/Slope 2": {
+		"category": "sBuildings 2",
+		"model": "wall_clapbrd_half_half_H_slope2",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.1,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#c9c5bb",
+			"color2": "#726647",
+			"color3": "#636363"
+		}
+	},
+"Clapbrd/Half-H/Slope 1": {
+		"category": "sBuildings 2",
+		"model": "wall_clapbrd_half_H_slope1",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 1.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#c9c5bb",
+			"color2": "#726647",
+			"color3": "#636363"
+		}
+	},
+"Clapbrd/Half-H/Slope 2": {
+		"category": "sBuildings 2",
+		"model": "wall_clapbrd_half_H_slope2",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 1.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#c9c5bb",
+			"color2": "#726647",
+			"color3": "#636363"
+		}
+	},
+"Clapbrd/Full-H/Diag": {
+		"category": "sBuildings 2",
+		"model": "wall_clapbrd_full_H_diag",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 1.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#c9c5bb",
+			"color2": "#726647",
+			"color3": "#636363"
+		}
+	},
+"Clapbrd-Half/Full-H": {
+		"category": "sBuildings 2",
+		"model": "wall_clapbrd_half_full_H",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.1,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#c9c5bb",
+			"color2": "#726647",
+			"color3": "#636363"
+		}
+	},
+"Clapbrd-Half/Fifth-H": {
+		"category": "sBuildings 2",
+		"model": "wall_clapbrd_half_fifth_H",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.1,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#c9c5bb",
+			"color2": "#726647",
+			"color3": "#636363"
+		}
+	},
+"Clapbrd-Qtr/Full-H": {
+		"category": "sBuildings 2",
+		"model": "wall_clapbrd_qtr_full_H",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 4.0,
+		"heightDelta": 0.1,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#c9c5bb",
+			"color2": "#726647",
+			"color3": "#636363"
+		}
+	},
+"Clapbrd-Qtr/Full-H/Diag": {
+		"category": "sBuildings 2",
+		"model": "wall_clapbrd_qtr_full_H_diag",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 4.0,
+		"heightDelta": 0.1,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#c9c5bb",
+			"color2": "#726647",
+			"color3": "#636363"
+		}
+	},
+"Clapbrd-Qtr/Fifth-H/Diag": {
+		"category": "sBuildings 2",
+		"model": "wall_clapbrd_qtr_fifth_H_diag",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 4.0,
+		"heightDelta": 0.1,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#c9c5bb",
+			"color2": "#726647",
+			"color3": "#636363"
+		}
+	},
+"Clapbrd-Qtr/Half-H": {
+		"category": "sBuildings 2",
+		"model": "wall_clapbrd_qtr_half_H",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 4.0,
+		"heightDelta": 0.1,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#c9c5bb",
+			"color2": "#726647",
+			"color3": "#636363"
+		}
+	},
+"Clapbrd-Qtr/Fifth-H": {
+		"category": "sBuildings 2",
+		"model": "wall_clapbrd_qtr_fifth_H",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 4.0,
+		"heightDelta": 0.1,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#c9c5bb",
+			"color2": "#726647",
+			"color3": "#636363"
+		}
+	},
+"Clapbrd-Qtr/Half-H/Diag": {
+		"category": "sBuildings 2",
+		"model": "wall_clapbrd_qtr_half_H_diag",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 4.0,
+		"heightDelta": 0.1,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#c9c5bb",
+			"color2": "#726647",
+			"color3": "#636363"
+		}
+	},
+"Clapbrd-Half/Full-H/Diag": {
+		"category": "sBuildings 2",
+		"model": "wall_clapbrd_half_full_H_diag",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.1,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#c9c5bb",
+			"color2": "#726647",
+			"color3": "#636363"
+		}
+	},
+"Clapbrd-Half/Half-H": {
+		"category": "sBuildings 2",
+		"model": "wall_clapbrd_half_half_H",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.1,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#c9c5bb",
+			"color2": "#726647",
+			"color3": "#636363"
+		}
+	},
+"Clapbrd-Half/Fifth-H/diag": {
+		"category": "sBuildings 2",
+		"model": "wall_clapbrd_half_fifth_H_diag",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.1,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#c9c5bb",
+			"color2": "#726647",
+			"color3": "#636363"
+		}
+	},
+"Clapbrd-Half/Half-H/Diag": {
+		"category": "sBuildings 2",
+		"model": "wall_clapbrd_half_half_H_diag",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.1,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#c9c5bb",
+			"color2": "#726647",
+			"color3": "#636363"
+		}
+	},
+"Clapbrd/Doorway/Double": {
+		"category": "sBuildings 2",
+		"model": "wall_clapbrd_doorway_double",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 1.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#c9c5bb",
+			"color2": "#726647",
+			"color3": "#636363",
+			"color4": "#bb9c70"
+		}
+	},
+"Clapbrd/Doorway/Double/Diag": {
+		"category": "sBuildings 2",
+		"model": "wall_clapbrd_doorway_double_diag",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 1.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#c9c5bb",
+			"color2": "#726647",
+			"color3": "#636363",
+			"color4": "#bb9c70"
+		}
+	},
+"Clapbrd/Doorway/Single": {
+		"category": "sBuildings 2",
+		"model": "wall_clapbrd_doorway_single",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 1.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#c9c5bb",
+			"color2": "#726647",
+			"color3": "#636363",
+			"color4": "#bb9c70"
+		}
+	},
+"Clapbrd/Window/Lg": {
+		"category": "sBuildings 2",
+		"model": "wall_clapbrd_window_large",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 1.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#c9c5bb",
+			"color2": "#726647",
+			"color3": "#636363",
+			"color4": "#bb9c70"
+		}
+	},
+"Clapbrd/Window/Lg/Diag": {
+		"category": "sBuildings 2",
+		"model": "wall_clapbrd_window_large_diag",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 1.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#c9c5bb",
+			"color2": "#726647",
+			"color3": "#636363",
+			"color4": "#bb9c70"
+		}
+	},
+"Clapbrd/Window/Md": {
+		"category": "sBuildings 2",
+		"model": "wall_clapbrd_window_medium",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 1.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#c9c5bb",
+			"color2": "#726647",
+			"color3": "#636363",
+			"color4": "#bb9c70"
+		}
+	},
+"Clapbrd/Window/Sm": {
+		"category": "sBuildings 2",
+		"model": "wall_clapbrd_window_small",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 1.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#c9c5bb",
+			"color2": "#726647",
+			"color3": "#636363",
+			"color4": "#bb9c70"
+		}
+	},
+"Clapbrd/Window/Half/Sm": {
+		"category": "sBuildings 2",
+		"model": "wall_clapbrd_half_window_small",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.1,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#c9c5bb",
+			"color2": "#726647",
+			"color3": "#636363",
+			"color4": "#bb9c70"
+		}
+	},
+"Clapbrd/Window/Dbl": {
+		"category": "sBuildings 2",
+		"model": "wall_clapbrd_window_double",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 1.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#c9c5bb",
+			"color2": "#726647",
+			"color3": "#636363",
+			"color4": "#bb9c70"
+		}
+	},
+"Clapbrd/Window/Dbl/Diag": {
+		"category": "sBuildings 2",
+		"model": "wall_clapbrd_window_double_diag",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 1.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#c9c5bb",
+			"color2": "#726647",
+			"color3": "#636363",
+			"color4": "#bb9c70"
+		}
+	},
+"Clapbrd/Half-H": {
+		"category": "sBuildings 2",
+		"model": "wall_clapbrd_half_H",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 1.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#c9c5bb",
+			"color2": "#726647",
+			"color3": "#636363"
+		}
+	},
+"Clapbrd/Half-H/Diag": {
+		"category": "sBuildings 2",
+		"model": "wall_clapbrd_half_H_diag",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 1.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#c9c5bb",
+			"color2": "#726647",
+			"color3": "#636363"
+		}
+	},
+"Awning/Large": {
+		"category": "sBuildings 2",
+		"model": "awning_large",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 1.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#d0c1b1",
+			"color2": "#74593f"
+		}
+	},
+"Awning/Large/Diag": {
+		"category": "sBuildings 2",
+		"model": "awning_large_diag",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 1.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#d0c1b1",
+			"color2": "#74593f"
+		}
+	},
+"Awning/Medium": {
+		"category": "sBuildings 2",
+		"model": "awning_medium",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 1.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#d0c1b1",
+			"color2": "#74593f"
+		}
+	},
+"Awning/Medium/Diag": {
+		"category": "sBuildings 2",
+		"model": "awning_medium_diag",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 1.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#d0c1b1",
+			"color2": "#74593f"
+		}
+	},
+"Awning/Small": {
+		"category": "sBuildings 2",
+		"model": "awning_small",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 1.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#d0c1b1",
+			"color2": "#74593f"
+		}
+	},
+"Awning/Small/Diag": {
+		"category": "sBuildings 2",
+		"model": "awning_small_diag",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 1.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#d0c1b1",
+			"color2": "#74593f"
+		}
+	},
+"Awning/Double": {
+		"category": "sBuildings 2",
+		"model": "awning_double",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 1.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#d0c1b1",
+			"color2": "#74593f"
+		}
+	},
+"Awning/Double/Diag": {
+		"category": "sBuildings 2",
+		"model": "awning_double_diag",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 1.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#d0c1b1",
+			"color2": "#74593f"
+		}
+	},
+"Threshold/Straight": {
+		"category": "sBuildings 2",
+		"model": "threshold_straight",
+		"type": "deco",
+		"price": 1.0,
+		"gridSubdivision": 1.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#7a7a7a"
+		}
+	},
+"Threshold/Diag": {
+		"category": "sBuildings 2",
+		"model": "threshold_diag",
+		"type": "deco",
+		"price": 1.0,
+		"gridSubdivision": 1.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#7a7a7a"
+		}
+	},
+"Floor/Roof-Full/Tile01": {
+		"category": "sBuildings 2",
+		"model": "floor_roof_full_tile01",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 1.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#806d5b",
+			"color2": "#885839",
+			"color3": "#877038",
+			"color4": "#7a7a7a"
+		}
+	},
+"Trim-Post/Base01/Center": {
+		"category": "sBuildings 2",
+		"model": "trim_post_base1_center",
+		"type": "deco",
+		"price": 2.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.1,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#bb9c70"
+		}
+	},
+"Trim-Post/Base01/Corner": {
+		"category": "sBuildings 2",
+		"model": "trim_post_base1_corner",
+		"type": "deco",
+		"price": 2.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.1,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#bb9c70"
+		}
+	},
+"Trim-Post/Corner": {
+		"category": "sBuildings 2",
+		"model": "trim_post_corner",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.1,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#bb9c70"
+		}
+	},
+"Trim-Post/Center": {
+		"category": "sBuildings 2",
+		"model": "trim_post_center",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.1,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#bb9c70"
+		}
+	},
+"Trim-Post/Corner/Qtr H": {
+		"category": "sBuildings 2",
+		"model": "trim_post_corner_qtr_H",
+		"type": "deco",
+		"price": 1.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.05,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#bb9c70"
+		}
+	},
+"Trim-Post/Center/Support 1": {
+		"category": "sBuildings 2",
+		"model": "trim_post_center_support1",
+		"type": "deco",
+		"price": 2.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.05,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#bb9c70"
+		}
+	},
+"Trim-Post/Center/Support 2": {
+		"category": "sBuildings 2",
+		"model": "trim_post_center_support2",
+		"type": "deco",
+		"price": 2.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.05,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#bb9c70"
+		}
+	},
+"Trim-Post/Center/Support 3": {
+		"category": "sBuildings 2",
+		"model": "trim_post_center_support3",
+		"type": "deco",
+		"price": 2.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.05,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#bb9c70"
+		}
+	},
+"Trim-Post/Center/Support 4": {
+		"category": "sBuildings 2",
+		"model": "trim_post_center_support4",
+		"type": "deco",
+		"price": 2.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.05,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#bb9c70"
+		}
+	},
+"Trim-Post/Corner/Support 1": {
+		"category": "sBuildings 2",
+		"model": "trim_post_corner_support1",
+		"type": "deco",
+		"price": 2.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.05,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#bb9c70"
+		}
+	},
+"Trim-Post/Corner/Support 2": {
+		"category": "sBuildings 2",
+		"model": "trim_post_corner_support2",
+		"type": "deco",
+		"price": 2.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.05,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#bb9c70"
+		}
+	},
+"Trim-Post/Corner/Support 3": {
+		"category": "sBuildings 2",
+		"model": "trim_post_corner_support3",
+		"type": "deco",
+		"price": 2.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.05,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#bb9c70"
+		}
+	},
+"Trim-Post/Corner/Support 4": {
+		"category": "sBuildings 2",
+		"model": "trim_post_corner_support4",
+		"type": "deco",
+		"price": 2.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.05,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#bb9c70"
+		}
+	},
+"Trim-Post/Center/Diag/Support 1": {
+		"category": "sBuildings 2",
+		"model": "trim_post_center_diag_support1",
+		"type": "deco",
+		"price": 2.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.05,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#bd636b"
+		}
+	},
+"Trim-Post/Center/Diag/Support 2": {
+		"category": "sBuildings 2",
+		"model": "trim_post_center_diag_support2",
+		"type": "deco",
+		"price": 2.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.05,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#bd636b"
+		}
+	},
+"Trim-Post/Center/Diag/Support 3": {
+		"category": "sBuildings 2",
+		"model": "trim_post_center_diag_support3",
+		"type": "deco",
+		"price": 2.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.05,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#bd636b"
+		}
+	},
+"Trim-Post/Center/Diag/Support 4": {
+		"category": "sBuildings 2",
+		"model": "trim_post_center_diag_support4",
+		"type": "deco",
+		"price": 2.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.05,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#bd636b"
+		}
+	},
+"Trim-Post/Corner/Diag/Support 1": {
+		"category": "sBuildings 2",
+		"model": "trim_post_corner_diag_support1",
+		"type": "deco",
+		"price": 2.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.05,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#bd636b"
+		}
+	},
+"Trim-Post/Corner/Diag/Support 2": {
+		"category": "sBuildings 2",
+		"model": "trim_post_corner_diag_support2",
+		"type": "deco",
+		"price": 2.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.05,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#bd636b"
+		}
+	},
+"Trim-Post/Corner/Diag/Support 3": {
+		"category": "sBuildings 2",
+		"model": "trim_post_corner_diag_support3",
+		"type": "deco",
+		"price": 2.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.05,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#bd636b"
+		}
+	},
+"Trim-Post/Corner/Diag/Support 4": {
+		"category": "sBuildings 2",
+		"model": "trim_post_corner_diag_support4",
+		"type": "deco",
+		"price": 2.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.05,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#bd636b"
+		}
+	},
+"Trim-Post/Center/Qtr H": {
+		"category": "sBuildings 2",
+		"model": "trim_post_center_qtr_H",
+		"type": "deco",
+		"price": 1.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.05,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#bb9c70"
+		}
+	},
+"Trim-Post/Center/Diag": {
+		"category": "sBuildings 2",
+		"model": "trim_post_center_diag",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.1,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#bd636b"
+		}
+	},
+"Trim-Post/Base01/Center/Diag": {
+		"category": "sBuildings 2",
+		"model": "trim_post_base1_center_diag",
+		"type": "deco",
+		"price": 2.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.1,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#bd636b"
+		}
+	},
+"Trim-Post/Corner/Diag": {
+		"category": "sBuildings 2",
+		"model": "trim_post_corner_diag",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.1,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#bd636b"
+		}
+	},
+"Trim-Post/Corner/Qtr H/Diag": {
+		"category": "sBuildings 2",
+		"model": "trim_post_corner_qtr_H_diag",
+		"type": "deco",
+		"price": 1.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.05,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#bd636b"
+		}
+	},
+"Trim-Post/Center/Qtr H/Diag": {
+		"category": "sBuildings 2",
+		"model": "trim_post_center_qtr_H_diag",
+		"type": "deco",
+		"price": 1.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.05,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#bd636b"
+		}
+	},
+"Trim-Post/Base01/Corner/Diag": {
+		"category": "sBuildings 2",
+		"model": "trim_post_base1_corner_diag",
+		"type": "deco",
+		"price": 2.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.1,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#bd636b"
+		}
+	},
+"Roof 01": {
+		"category": "sBuildings 2",
+		"model": "roof_01",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 1.0,
+		"heightDelta": 0.05,
+		"snapCenter": true,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#922828",
+			"color2": "#922828",
+			"color3": "#503c19"
+		}
+	},
+"Roof 01/Corner 1": {
+		"category": "sBuildings 2",
+		"model": "roof_01_corner1",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 1.0,
+		"heightDelta": 0.05,
+		"snapCenter": true,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#922828",
+			"color2": "#922828",
+			"color3": "#503c19"
+		}
+	},
+"Roof 01/Corner 2": {
+		"category": "sBuildings 2",
+		"model": "roof_01_corner2",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 1.0,
+		"heightDelta": 0.05,
+		"snapCenter": true,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#922828",
+			"color2": "#922828",
+			"color3": "#503c19"
+		}
+	},
+"Roof 01/Corner-Inner 1": {
+		"category": "sBuildings 2",
+		"model": "roof_01_corner_inner1",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 1.0,
+		"heightDelta": 0.05,
+		"snapCenter": true,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#922828",
+			"color2": "#922828",
+			"color3": "#503c19"
+		}
+	},
+"Roof 01/Corner-Inner 2": {
+		"category": "sBuildings 2",
+		"model": "roof_01_corner_inner2",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 1.0,
+		"heightDelta": 0.05,
+		"snapCenter": true,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#922828",
+			"color2": "#922828",
+			"color3": "#503c19"
+		}
+	},
+"Roof 01/Half": {
+		"category": "sBuildings 2",
+		"model": "roof_01_half",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.05,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#922828",
+			"color2": "#922828",
+			"color3": "#503c19"
+		}
+	},
+"Roof 01-Soffit/Half": {
+		"category": "sBuildings 2",
+		"model": "roof_01_soffit_half",
+		"type": "deco",
+		"price": 2.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.05,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#922828",
+			"color2": "#922828",
+			"color3": "#503c19"
+		}
+	},
+"Roof 01/Full": {
+		"category": "sBuildings 2",
+		"model": "roof_01_full",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 1.0,
+		"heightDelta": 0.05,
+		"snapCenter": true,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#922828",
+			"color2": "#922828",
+			"color3": "#503c19"
+		}
+	},
+"Roof 01-Eave 1": {
+		"category": "sBuildings 2",
+		"model": "roof_01_eave1",
+		"type": "deco",
+		"price": 2.0,
+		"gridSubdivision": 1.0,
+		"heightDelta": 0.05,
+		"snapCenter": true,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#922828",
+			"color2": "#922828",
+			"color3": "#503c19"
+		}
+	},
+"Roof 01-Eave 2": {
+		"category": "sBuildings 2",
+		"model": "roof_01_eave2",
+		"type": "deco",
+		"price": 2.0,
+		"gridSubdivision": 1.0,
+		"heightDelta": 0.05,
+		"snapCenter": true,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#922828",
+			"color2": "#922828",
+			"color3": "#503c19"
+		}
+	},
+"Roof 01-Soffit": {
+		"category": "sBuildings 2",
+		"model": "roof_01_soffit",
+		"type": "deco",
+		"price": 2.0,
+		"gridSubdivision": 1.0,
+		"heightDelta": 0.05,
+		"snapCenter": true,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#922828",
+			"color2": "#922828",
+			"color3": "#503c19"
+		}
+	},
+"Roof 01-Soffit Corner 1": {
+		"category": "sBuildings 2",
+		"model": "roof_01_soffit_corner1",
+		"type": "deco",
+		"price": 1.0,
+		"gridSubdivision": 1.0,
+		"heightDelta": 0.05,
+		"snapCenter": true,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#922828",
+			"color2": "#922828",
+			"color3": "#503c19"
+		}
+	},
+"Roof 01-Soffit Corner 2": {
+		"category": "sBuildings 2",
+		"model": "roof_01_soffit_corner2",
+		"type": "deco",
+		"price": 1.0,
+		"gridSubdivision": 1.0,
+		"heightDelta": 0.05,
+		"snapCenter": true,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#922828",
+			"color2": "#922828",
+			"color3": "#503c19"
+		}
+	},
+"Roof 01/Corner-Soffit": {
+		"category": "sBuildings 2",
+		"model": "roof_01_corner_soffit",
+		"type": "deco",
+		"price": 1.0,
+		"gridSubdivision": 1.0,
+		"heightDelta": 0.05,
+		"snapCenter": true,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#922828",
+			"color2": "#922828",
+			"color3": "#503c19"
+		}
+	},
+"Roof 01/Corner/Inner-Soffit": {
+		"category": "sBuildings 2",
+		"model": "roof_01_corner_inner_soffit",
+		"type": "deco",
+		"price": 1.0,
+		"gridSubdivision": 1.0,
+		"heightDelta": 0.05,
+		"snapCenter": true,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#922828",
+			"color2": "#922828",
+			"color3": "#503c19"
+		}
+	},
+"Roof 02": {
+		"category": "sBuildings 2",
+		"model": "roof_02",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.05,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#2166db",
+			"color2": "#2166db",
+			"color3": "#503c19"
+		}
+	},
+"Roof 02/Corner-Inner 1": {
+		"category": "sBuildings 2",
+		"model": "roof_02_corner_inner1",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.05,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#2166db",
+			"color2": "#2166db",
+			"color3": "#503c19"
+		}
+	},
+"Roof 02/Corner-Inner 2": {
+		"category": "sBuildings 2",
+		"model": "roof_02_corner_inner2",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.05,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#2166db",
+			"color2": "#2166db",
+			"color3": "#503c19"
+		}
+	},
+"Roof 02/Corner-Soffit": {
+		"category": "sBuildings 2",
+		"model": "roof_02_corner_soffit",
+		"type": "deco",
+		"price": 1.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.05,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#2166db",
+			"color2": "#2166db",
+			"color3": "#503c19"
+		}
+	},
+"Roof 02/Corner/Inner-Soffit": {
+		"category": "sBuildings 2",
+		"model": "roof_02_corner_inner_soffit",
+		"type": "deco",
+		"price": 1.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.05,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#2166db",
+			"color2": "#2166db",
+			"color3": "#503c19"
+		}
+	},
+"Roof 02/Corner 1": {
+		"category": "sBuildings 2",
+		"model": "roof_02_corner1",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.05,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#2166db",
+			"color2": "#2166db",
+			"color3": "#503c19"
+		}
+	},
+"Roof 02/Corner 2": {
+		"category": "sBuildings 2",
+		"model": "roof_02_corner2",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.05,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#2166db",
+			"color2": "#2166db",
+			"color3": "#503c19"
+		}
+	},
+"Roof 02/Half": {
+		"category": "sBuildings 2",
+		"model": "roof_02_half",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.05,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#2166db",
+			"color2": "#2166db",
+			"color3": "#503c19"
+		}
+	},
+"Roof 02-Soffit/Half": {
+		"category": "sBuildings 2",
+		"model": "roof_02_soffit_half",
+		"type": "deco",
+		"price": 2.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.05,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#2166db",
+			"color2": "#2166db",
+			"color3": "#503c19"
+		}
+	},
+"Roof 02-Eave 1": {
+		"category": "sBuildings 2",
+		"model": "roof_02_eave1",
+		"type": "deco",
+		"price": 2.0,
+		"gridSubdivision": 1.0,
+		"heightDelta": 0.05,
+		"snapCenter": true,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#2166db",
+			"color2": "#2166db",
+			"color3": "#503c19"
+		}
+	},
+"Roof 02-Eave 2": {
+		"category": "sBuildings 2",
+		"model": "roof_02_eave2",
+		"type": "deco",
+		"price": 2.0,
+		"gridSubdivision": 1.0,
+		"heightDelta": 0.05,
+		"snapCenter": true,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#2166db",
+			"color2": "#2166db",
+			"color3": "#503c19"
+		}
+	},
+"Roof 02-Soffit": {
+		"category": "sBuildings 2",
+		"model": "roof_02_soffit",
+		"type": "deco",
+		"price": 2.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.05,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#2166db",
+			"color2": "#2166db",
+			"color3": "#503c19"
+		}
+	},
+"Roof 02-Soffit Corner 1": {
+		"category": "sBuildings 2",
+		"model": "roof_02_soffit_corner1",
+		"type": "deco",
+		"price": 1.0,
+		"gridSubdivision": 1.0,
+		"heightDelta": 0.05,
+		"snapCenter": true,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#2166db",
+			"color2": "#2166db",
+			"color3": "#503c19"
+		}
+	},
+"Roof 02-Soffit Corner 2": {
+		"category": "sBuildings 2",
+		"model": "roof_02_soffit_corner2",
+		"type": "deco",
+		"price": 1.0,
+		"gridSubdivision": 1.0,
+		"heightDelta": 0.05,
+		"snapCenter": true,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#2166db",
+			"color2": "#2166db",
+			"color3": "#503c19"
+		}
+	},
+"Roof 03": {
+		"category": "sBuildings 2",
+		"model": "roof_03",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.05,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#8c451d",
+			"color2": "#8c451d",
+			"color3": "#503c19"
+		}
+	},
+"Roof 03/Corner-Soffit": {
+		"category": "sBuildings 2",
+		"model": "roof_03_corner_soffit",
+		"type": "deco",
+		"price": 1.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.05,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#8c451d",
+			"color2": "#8c451d",
+			"color3": "#503c19"
+		}
+	},
+"Roof 03/Corner/Inner-Soffit": {
+		"category": "sBuildings 2",
+		"model": "roof_03_corner_inner_soffit",
+		"type": "deco",
+		"price": 1.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.05,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#8c451d",
+			"color2": "#8c451d",
+			"color3": "#503c19"
+		}
+	},
+"Roof 03/Corner 1": {
+		"category": "sBuildings 2",
+		"model": "roof_03_corner1",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.05,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#8c451d",
+			"color2": "#8c451d",
+			"color3": "#503c19"
+		}
+	},
+"Roof 03/Corner 2": {
+		"category": "sBuildings 2",
+		"model": "roof_03_corner2",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.05,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#8c451d",
+			"color2": "#8c451d",
+			"color3": "#503c19"
+		}
+	},
+"Roof 03/Corner-Inner 1": {
+		"category": "sBuildings 2",
+		"model": "roof_03_corner_inner1",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.05,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#8c451d",
+			"color2": "#8c451d",
+			"color3": "#503c19"
+		}
+	},
+"Roof 03/Corner-Inner 2": {
+		"category": "sBuildings 2",
+		"model": "roof_03_corner_inner2",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.05,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#8c451d",
+			"color2": "#8c451d",
+			"color3": "#503c19"
+		}
+	},
+"Roof 03/Half": {
+		"category": "sBuildings 2",
+		"model": "roof_03_half",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.05,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#8c451d",
+			"color2": "#8c451d",
+			"color3": "#503c19"
+		}
+	},
+"Roof 03-Eave 1": {
+		"category": "sBuildings 2",
+		"model": "roof_03_eave1",
+		"type": "deco",
+		"price": 2.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.05,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#8c451d",
+			"color2": "#8c451d",
+			"color3": "#503c19"
+		}
+	},
+"Roof 03-Eave 2": {
+		"category": "sBuildings 2",
+		"model": "roof_03_eave2",
+		"type": "deco",
+		"price": 2.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.05,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#8c451d",
+			"color2": "#8c451d",
+			"color3": "#503c19"
+		}
+	},
+"Roof 03-Soffit": {
+		"category": "sBuildings 2",
+		"model": "roof_03_soffit",
+		"type": "deco",
+		"price": 2.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.05,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#8c451d",
+			"color2": "#8c451d",
+			"color3": "#503c19"
+		}
+	},
+"Roof 03-Soffit/half": {
+		"category": "sBuildings 2",
+		"model": "roof_03_soffit_half",
+		"type": "deco",
+		"price": 2.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.05,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#8c451d",
+			"color2": "#8c451d",
+			"color3": "#503c19"
+		}
+	},
+"Roof 03-Soffit Corner 1": {
+		"category": "sBuildings 2",
+		"model": "roof_03_soffit_corner1",
+		"type": "deco",
+		"price": 2.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.05,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#8c451d",
+			"color2": "#8c451d",
+			"color3": "#503c19"
+		}
+	},
+"Roof 03-Soffit Corner 2": {
+		"category": "sBuildings 2",
+		"model": "roof_03_soffit_corner2",
+		"type": "deco",
+		"price": 2.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.05,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#8c451d",
+			"color2": "#8c451d",
+			"color3": "#503c19"
+		}
+	},
+"Sign-Restrooms": {
+		"category": "sBuildings 2",
+		"model": "sign_restrooms",
+		"type": "deco",
+		"price": 2.0,
+		"gridSubdivision": 1.0,
+		"heightDelta": 0.05,
+		"snapCenter": true,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#bd636b",
+			"color2": "#197f1a",
+			"color3": "#c9c5bb"
+		}
+	},
+"Sign-Drinks": {
+		"category": "sBuildings 2",
+		"model": "sign_drinks",
+		"type": "deco",
+		"price": 2.0,
+		"gridSubdivision": 1.0,
+		"heightDelta": 0.05,
+		"snapCenter": true,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#bd636b",
+			"color2": "#197f1a",
+			"color3": "#c9c5bb"
+		}
+	},
+"Sign-Snacks": {
+		"category": "sBuildings 2",
+		"model": "sign_snacks",
+		"type": "deco",
+		"price": 2.0,
+		"gridSubdivision": 1.0,
+		"heightDelta": 0.05,
+		"snapCenter": true,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#bd636b",
+			"color2": "#197f1a",
+			"color3": "#c9c5bb"
+		}
+	},
+"Sign-Guest Services": {
+		"category": "sBuildings 2",
+		"model": "sign_guest_services",
+		"type": "deco",
+		"price": 2.0,
+		"gridSubdivision": 1.0,
+		"heightDelta": 0.05,
+		"snapCenter": true,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#bd636b",
+			"color2": "#197f1a",
+			"color3": "#c9c5bb"
+		}
+	},
+"Sign-Refreshments": {
+		"category": "sBuildings 2",
+		"model": "sign_refreshments",
+		"type": "deco",
+		"price": 2.0,
+		"gridSubdivision": 1.0,
+		"heightDelta": 0.05,
+		"snapCenter": true,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#bd636b",
+			"color2": "#197f1a",
+			"color3": "#c9c5bb"
+		}
+	},
+"Sign-Souvenirs": {
+		"category": "sBuildings 2",
+		"model": "sign_souvenirs",
+		"type": "deco",
+		"price": 2.0,
+		"gridSubdivision": 1.0,
+		"heightDelta": 0.05,
+		"snapCenter": true,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#bd636b",
+			"color2": "#197f1a",
+			"color3": "#c9c5bb"
+		}
+	},
+"Sign-Candy Shop": {
+		"category": "sBuildings 2",
+		"model": "sign_candy_shop",
+		"type": "deco",
+		"price": 2.0,
+		"gridSubdivision": 1.0,
+		"heightDelta": 0.05,
+		"snapCenter": true,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#bd636b",
+			"color2": "#197f1a",
+			"color3": "#c9c5bb"
+		}
+	},
+"Sign-Emporium": {
+		"category": "sBuildings 2",
+		"model": "sign_emporium",
+		"type": "deco",
+		"price": 2.0,
+		"gridSubdivision": 1.0,
+		"heightDelta": 0.05,
+		"snapCenter": true,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#bd636b",
+			"color2": "#197f1a",
+			"color3": "#c9c5bb"
+		}
+	},
+"Sign-Information": {
+		"category": "sBuildings 2",
+		"model": "sign_information",
+		"type": "deco",
+		"price": 2.0,
+		"gridSubdivision": 1.0,
+		"heightDelta": 0.05,
+		"snapCenter": true,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#bd636b",
+			"color2": "#197f1a",
+			"color3": "#c9c5bb"
+		}
+	}
+}
